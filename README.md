@@ -19,7 +19,7 @@ The project use [Deno](https://deno.land/) as typescript runtime and testing.
     # deno task run day01
 
     # run tests and run day01 if tests pass
-    # deno run testrun day01
+    # deno task testrun day01
 
 ## Generate
 
