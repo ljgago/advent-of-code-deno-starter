@@ -1,0 +1,15 @@
+{
+  "fmt": {
+    "options": {
+      "lineWidth": 80,
+      "indentWidth": 2,
+      "proseWrap": "preserve"
+    }
+  },
+  "tasks": {
+    "gen": "./script/gen.sh",
+    "run": "./script/run.sh",
+    "test": "./script/test.sh",
+    "testrun": "./script/testrun.sh"
+  }
+}

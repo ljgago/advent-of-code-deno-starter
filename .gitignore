@@ -1,0 +1,12 @@
+# Software temp files
+/.cargo_home/
+/.idea/
+/.vscode/
+/.deno/
+gclient_config.py_entries
+/gh-pages/
+/target/
+
+# Env files
+.env
+.env.default
