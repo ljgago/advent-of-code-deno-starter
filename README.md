@@ -23,8 +23,7 @@ The project use [Deno](https://deno.land/) as typescript runtime and testing.
 
 ## Generate
 
-You can generate all necesary files for use in the event with a simple
-command:
+You can generate all necesary files for use in the event with a single command:
 
     $ deno task gen day01
 

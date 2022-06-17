@@ -12,5 +12,5 @@ try {
   console.log("Result:", part2(input));
 
 } catch (err) {
-    console.error(err);
+  console.error(err);
 }
